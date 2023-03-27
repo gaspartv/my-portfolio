@@ -66,7 +66,7 @@ export const Home = (): JSX.Element => {
                 Ver Projetos
               </Button>
               <Button as="a" type="outline" target="_blank" href={portfolioUrl}>
-                See my portfolio source code
+                Veja o código-fonte do meu portfólio
               </Button>
               <Button
                 color="grey5"
@@ -92,12 +92,12 @@ export const Home = (): JSX.Element => {
           <ProjectAreaWrapperColumns>
             <ProjectsAreaSocialMediaMessage>
               <Text as="h2" type="heading4" color="grey4">
-                My projects
+                Meus projetos
               </Text>
               <Text as="p" type="body1" color="grey2">
-                Some of my{" "}
+                Alguns dos meus{" "}
                 <Text as="span" color="brand5">
-                  side projects
+                  projetos paralelos
                 </Text>
               </Text>
             </ProjectsAreaSocialMediaMessage>
